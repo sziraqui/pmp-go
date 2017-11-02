@@ -186,7 +186,185 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/b_Root
+        weight: 1
+      - path: Armature/b_Root/b_Hip
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_Neck
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_Neck/b_Neck02
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_Neck/b_Neck02/b_Head
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_Neck/b_Neck02/b_Head/b_Eye.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_Neck/b_Neck02/b_Head/b_Eye.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_Neck/b_Neck02/b_Head/b_Eyelid.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_Neck/b_Neck02/b_Head/b_Eyelid.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_Neck/b_Neck02/b_Head/b_Head.001
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_Neck/b_Neck02/b_Head/b_Mouth
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L/b_Hand.L.001
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L/b_Index_1.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L/b_Index_1.L/b_Index_2.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L/b_Index_1.L/b_Index_2.L/b_Index_3.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L/b_Middle_1.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L/b_Middle_1.L/b_Middle_2.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L/b_Middle_1.L/b_Middle_2.L/b_Middle_3.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L/b_Pinky_1.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L/b_Pinky_1.L/b_Pinky_2.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L/b_Pinky_1.L/b_Pinky_2.L/b_Pinky_3.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L/b_Thumb_1.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L/b_Thumb_1.L/b_Thumb_2.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.L/b_LowerArm.L/b_Hand.L/b_Thumb_1.L/b_Thumb_2.L/b_Thumb_3.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R/b_Hand.R.001
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R/b_Index_1.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R/b_Index_1.R/b_Index_2.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R/b_Index_1.R/b_Index_2.R/b_Index_3.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R/b_Middle_1.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R/b_Middle_1.R/b_Middle_2.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R/b_Middle_1.R/b_Middle_2.R/b_Middle_3.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R/b_Pinky_1.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R/b_Pinky_1.R/b_Pinky_2.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R/b_Pinky_1.R/b_Pinky_2.R/b_Pinky_3.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R/b_Thumb_1.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R/b_Thumb_1.R/b_Thumb_2.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Spine01/b_Spine02/b_Spine03/b_UpperArm.R/b_LowerArm.R/b_Hand.R/b_Thumb_1.R/b_Thumb_2.R/b_Thumb_3.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Tail01
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Tail01/b_Tail02
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Tail01/b_Tail02/b_Tail03
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Tail01/b_Tail02/b_Tail03/b_Tail04
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Tail01/b_Tail02/b_Tail03/b_Tail04/b_Tail05
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Tail01/b_Tail02/b_Tail03/b_Tail04/b_Tail05/b_Tail06
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Tail01/b_Tail02/b_Tail03/b_Tail04/b_Tail05/b_Tail06/b_Tail07
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_Tail01/b_Tail02/b_Tail03/b_Tail04/b_Tail05/b_Tail06/b_Tail07/b_Tail08
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.L/b_LowerLeg.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.L/b_LowerLeg.L/b_Foot.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.L/b_LowerLeg.L/b_Foot.L/b_Foot.L.001
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.L/b_LowerLeg.L/b_Foot.L/b_Foot.L.001/b_Toe_1.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.L/b_LowerLeg.L/b_Foot.L/b_Foot.L.001/b_Toe_2.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.L/b_LowerLeg.L/b_Foot.L/b_Foot.L.001/b_Toe_3.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.L/b_LowerLeg.L/b_Foot.L/b_Foot.L.001/b_Toe_4.L
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.R/b_LowerLeg.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.R/b_LowerLeg.R/b_Foot.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.R/b_LowerLeg.R/b_Foot.R/b_Foot.R.001
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.R/b_LowerLeg.R/b_Foot.R/b_Foot.R.001/b_Toe_1.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.R/b_LowerLeg.R/b_Foot.R/b_Foot.R.001/b_Toe_2.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.R/b_LowerLeg.R/b_Foot.R/b_Foot.R.001/b_Toe_3.R
+        weight: 1
+      - path: Armature/b_Root/b_Hip/b_UpperLeg.R/b_LowerLeg.R/b_Foot.R/b_Foot.R.001/b_Toe_4.R
+        weight: 1
+      - path: LM
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: tongue
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
